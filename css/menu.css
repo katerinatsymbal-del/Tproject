@@ -1,0 +1,22 @@
+body {
+	background-color: #F8F1E7;
+}
+
+
+#menu {
+	display: flex;
+	flex-direction: column;
+	justify-content: left;	
+}
+
+.menu_item a{
+	display: flex;
+	/*align-items: left;*/
+	justify-content: left;
+	/*height: 30px;*/
+	/*width: 150px;*/
+	color: #494d04;
+	text-decoration: none;
+	font-size: 24px;
+	margin-bottom: 15px;
+}

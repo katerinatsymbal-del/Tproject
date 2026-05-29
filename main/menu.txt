@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<div class="menu_item">Пункт номер раз</div>
+<div class="menu_item">Пункт номер два </div>
+<div class="menu_item">Пункт номер три </div>
+</html>
+
